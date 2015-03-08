@@ -1,6 +1,6 @@
 unzip("exdata-data-household_power_consumption.zip")
 
-library(dplyr)
+
 data <- read.table("household_power_consumption.txt", header=T, sep=";", 
                    na.string= "?")
 
@@ -47,12 +47,6 @@ legend("topright",
 )   
       
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 dev.off()
-=======
-dev.off()
->>>>>>> origin/master
-=======
-dev.off()
->>>>>>> cd2c1c07a81b200dc65f77ec6847c019c8d103e0
+
