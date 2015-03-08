@@ -24,13 +24,6 @@ plot(subset_data$datetime,
      xlab=" "
       )
      
- 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 dev.off()
-=======
-dev.off()
->>>>>>> origin/master
-=======
-dev.off()
->>>>>>> cd2c1c07a81b200dc65f77ec6847c019c8d103e0
+
