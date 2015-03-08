@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ##setwd("C:/Users/z062551/Documents/Price-Promo/Exploratory Data Analysis")
+=======
+>>>>>>> origin/master
 
 unzip("exdata-data-household_power_consumption.zip")
 
@@ -24,5 +27,8 @@ hist(subset_data$Global_active_power, freq=T, col="red", main="Global Active Pow
             plot=T)
          
 dev.off()
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

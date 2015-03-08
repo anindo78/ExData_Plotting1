@@ -74,4 +74,8 @@ plot(subset_data$datetime,
 
 
 
+<<<<<<< HEAD
 dev.off()
+=======
+dev.off()
+>>>>>>> origin/master

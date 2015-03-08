@@ -47,4 +47,8 @@ legend("topright",
 )   
       
 
+<<<<<<< HEAD
 dev.off()
+=======
+dev.off()
+>>>>>>> origin/master
